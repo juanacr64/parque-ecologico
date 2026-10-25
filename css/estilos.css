@@ -11,10 +11,13 @@ header {
 }
 
 #contenido {
-    background-image: url('https://gdu.com.mx/wp-content/uploads/2025/05/DSC_0340ZOOM-scaled.jpg');
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/42/Shafer_Canyon_Overlook_Canyonlands_National_Park.jpg');
     background-size: cover;
+    background-position: center;
     border-radius: 6px;
-    padding: 20px;
+    padding: 40px;
+    min-height: 250px;
+}
 }
 
 .imagen-pequena {
